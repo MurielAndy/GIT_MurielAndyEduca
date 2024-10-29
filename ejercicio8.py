@@ -7,5 +7,3 @@ r = n % m   # Resto
 
 # Mostrar el resultado al usuario
 print(f"La {n} entre {m} da un cociente {c} y un resto {r}.")
-
- 
